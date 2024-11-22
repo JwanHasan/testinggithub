@@ -8,5 +8,6 @@ public class Test3
     Scanner scan=new Scanner(System.in);
     String answer=scan.nextLine();
     System.out.println(answer);
+    ////////////////////////////////////////////////////////////
   }
 }
